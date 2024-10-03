@@ -16,7 +16,7 @@
 
 #define UIN_LENGTH 9
 
-// Function prototypes
+// Add all function prototypes here
 int validateUIN(const char* uin);
 
 int main() {
